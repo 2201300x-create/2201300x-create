@@ -53,14 +53,14 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🦊 KitsuneAnime</h3>
-      <p><i>Plataforma de Streaming</i></p>
-      <p>Desarrollo integral con comprobación automatizada de estado de servidores, bases de datos y sistema de encriptación de enlaces.</p>
+      <h3>🖥️ Desarrollo Web Fullstack</h3>
+      <p><i>Sistemas a Medida</i></p>
+      <p>Creación de interfaces dinámicas y diseño de arquitecturas de bases de datos relacionales enfocadas en rendimiento, seguridad y gestión de usuarios.</p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🤖 Automatización LLM</h3>
-      <p><i>Traducción de Subtítulos</i></p>
-      <p>Workflows en Python para procesar archivos .ass y .srt utilizando modelos locales (Aya / Qwen) a través de Ollama.</p>
+      <p><i>Procesamiento de Lenguaje</i></p>
+      <p>Workflows en Python para automatizar el procesamiento y traducción de archivos utilizando modelos locales a través de Ollama.</p>
     </td>
   </tr>
 </table>
