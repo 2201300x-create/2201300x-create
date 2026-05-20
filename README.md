@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1.jpgf" alt="Nami Banner" width="100%">
+  <img src="1.jpg" alt="Nami Banner" width="100%">
   
   <br>
   
