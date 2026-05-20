@@ -69,7 +69,7 @@
 
 <h2 align="center">☁️ Radar del Clima (GitHub Stats)</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2201300x&layout=compact&theme=transparent&title_color=f97316&text_color=a3a3a3&icon_color=0ea5e9&hide_border=true&v=1" height="195">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2201300x&theme=transparent&ring=f97316&fire=f97316&currStreakNum=a3a3a3&sideNums=a3a3a3&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=a3a3a3&hide_border=true" height="195" alt="Racha de GitHub">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=2201300x&show_icons=true&theme=transparent&title_color=f97316&icon_color=0ea5e9&text_color=a3a3a3&hide_border=true&ring_color=f97316&v=1" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2201300x&layout=compact&theme=transparent&title_color=f97316&text_color=a3a3a3&icon_color=0ea5e9&hide_border=true" height="195" alt="Lenguajes Top">
 </div>
